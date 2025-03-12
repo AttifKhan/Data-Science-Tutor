@@ -16,7 +16,7 @@ A conversational AI tutor built with **Streamlit** and powered by **Google's Gem
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/data-science-tutor.git
+git clone https://github.com/AttifKhan/Data-Science-Tutor.git
 cd data-science-tutor
 ```
 

@@ -2,7 +2,7 @@
 
 A conversational AI tutor built with **Streamlit** and powered by **Google's Gemini 1.5 Pro model** to help users learn data science concepts and solve related problems interactively.
 
-![Alt text](./static/img/Data Science Tutor.png)
+![Alt text](static/img/Data Science Tutor.png)
 
 
 ## 🚀 Features
